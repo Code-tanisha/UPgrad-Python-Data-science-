@@ -1,2 +1,2 @@
-# UPgrad-Python-Data-science-
-UPgrad Python-Data science 
+# UPgrad-Python_Challenges
+UPgrad Python-Challenges 
